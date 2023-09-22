@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aad75046-2a49-4a07-b506-7a47a82e1e85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksAndQueues/P1ReverseNumbersWithAStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksAndQueues/P2BasicStackOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksAndQueues/P3MaximumElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksAndQueues/P4BasicQueueOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksAndQueues/P5BalancedParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksAndQueues/P6RecursiveFibonacci.java" afterDir="false" />
+    <list default="true" id="aad75046-2a49-4a07-b506-7a47a82e1e85" name="Changes" comment="Update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +47,18 @@
       <option name="presentableId" value="Default" />
       <updated>1694978944371</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update">
+      <created>1694980307032</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694980307032</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>
