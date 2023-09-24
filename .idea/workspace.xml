@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad75046-2a49-4a07-b506-7a47a82e1e85" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P2MatrixOfPalindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P3DiagonalDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P4MaximalSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P5MatrixShuffling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P6StringMatrixRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P7Crossfire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P8TheHeiganDance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultidimentionalArrays/P1FillTheMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P1FillTheMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StacksAndQueues/P1ReverseNumbersWithAStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks_and_queues/P1ReverseNumbersWithAStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StacksAndQueues/P2BasicStackOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks_and_queues/P2BasicStackOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StacksAndQueues/P3MaximumElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks_and_queues/P3MaximumElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StacksAndQueues/P4BasicQueueOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks_and_queues/P4BasicQueueOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StacksAndQueues/P5BalancedParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks_and_queues/P5BalancedParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StacksAndQueues/P6RecursiveFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks_and_queues/P6RecursiveFibonacci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +35,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2eb2b735-46c6-4c25-b4f7-68374c6f89d1" />
+        <option name="url" value="https://github.com/demonhandz/java-advanced-oop.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,11 +67,11 @@
 }</component>
   <component name="RunManager">
     <configuration name="P1FillTheMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultidimentionalArrays.P1FillTheMatrix" />
+      <option name="MAIN_CLASS_NAME" value="multidimentional_arrays.P1FillTheMatrix" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultidimentionalArrays.*" />
+          <option name="PATTERN" value="multidimentional_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695497403865</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update">
+      <created>1695497520457</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695497520457</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
