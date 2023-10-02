@@ -5,21 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad75046-2a49-4a07-b506-7a47a82e1e85" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P2MatrixOfPalindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P3DiagonalDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P4MaximalSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P5MatrixShuffling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P6StringMatrixRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P7Crossfire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P8TheHeiganDance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_multidimentional_arrays/P1CompareMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sets_and_maps/P1UniqueUsernames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sets_and_maps/P2SetsOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sets_and_maps/P3PeriodicTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sets_and_maps/P4CountSymbols.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sets_and_maps/P5Phonebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sets_and_maps/P6FixEmails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sets_and_maps/P7HandsOfCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sets_and_maps/P9PopulationCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MultidimentionalArrays/P1FillTheMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P1FillTheMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StacksAndQueues/P1ReverseNumbersWithAStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks_and_queues/P1ReverseNumbersWithAStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StacksAndQueues/P2BasicStackOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks_and_queues/P2BasicStackOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StacksAndQueues/P3MaximumElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks_and_queues/P3MaximumElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StacksAndQueues/P4BasicQueueOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks_and_queues/P4BasicQueueOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StacksAndQueues/P5BalancedParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks_and_queues/P5BalancedParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StacksAndQueues/P6RecursiveFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks_and_queues/P6RecursiveFibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multidimentional_arrays/P6StringMatrixRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P6StringMatrixRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multidimentional_arrays/P8TheHeiganDance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P8TheHeiganDance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +60,31 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JavaAdvanced" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1CompareMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_multidimentional_arrays.P1CompareMatrices" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_multidimentional_arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P1FillTheMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="multidimentional_arrays.P1FillTheMatrix" />
       <module name="JavaAdvanced" />
@@ -81,6 +100,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.P1CompareMatrices" />
         <item itemvalue="Application.P1FillTheMatrix" />
       </list>
     </recent_temporary>
@@ -143,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695497520457</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update">
+      <created>1695551274582</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695551274582</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
