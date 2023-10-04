@@ -5,19 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad75046-2a49-4a07-b506-7a47a82e1e85" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/src/lab_multidimentional_arrays/P1CompareMatrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sets_and_maps/P1UniqueUsernames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sets_and_maps/P2SetsOfElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sets_and_maps/P3PeriodicTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sets_and_maps/P4CountSymbols.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sets_and_maps/P5Phonebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sets_and_maps/P6FixEmails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sets_and_maps/P7HandsOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sets_and_maps/P9PopulationCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_programming/P1ConsumerPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_programming/P2KnightsOfHonor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_programming/P3CustomMinFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_programming/P4AppliedArithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_programming/P5ReverseAndExclude.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_programming/P6PredicateForNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_programming/P8CustomComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams_files_and_directories/P11SerializeCustomObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams_files_and_directories/P12CreateZipArchive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams_files_and_directories/P1SumLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams_files_and_directories/P2SumBytes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams_files_and_directories/P3AllCapitals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams_files_and_directories/P4CountCharacterTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams_files_and_directories/P7MergeTwoFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams_files_and_directories/P8GetFolderSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams_files_and_directories/P9CopyPicture.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multidimentional_arrays/P6StringMatrixRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P6StringMatrixRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multidimentional_arrays/P8TheHeiganDance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P8TheHeiganDance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_multidimentional_arrays/P1CompareMatrices.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,14 +61,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "extract.method.default.visibility": "private",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -171,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695551274582</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update">
+      <created>1696277568763</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696277568763</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
