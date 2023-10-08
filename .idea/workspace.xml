@@ -5,17 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad75046-2a49-4a07-b506-7a47a82e1e85" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/src/functional_programming/P11ThePartyReservationFilterModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/Exercises Resources.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/inputLineNumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/inputOne.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/inputTwo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/inputLineNumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/inputOne.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/inputTwo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/P1SumLines.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional_programming/P8CustomComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional_programming/P8CustomComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams_files_and_directories/P12CreateZipArchive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams_files_and_directories/P1SumLines.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams_files_and_directories/P2SumBytes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams_files_and_directories/P3AllCapitals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams_files_and_directories/P4CountCharacterTypes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams_files_and_directories/P7MergeTwoFiles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams_files_and_directories/P8GetFolderSize.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams_files_and_directories/P9CopyPicture.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,25 +54,36 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2VXOQcOktMvKjteInclb9kTqEg1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Georgi Danailov/Desktop/JetBrains-Discord-Integration-1.11.0.zip&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "extract.method.default.visibility": "private",
+    "last_opened_file_path": "C:/Users/Georgi Danailov/Desktop/JavaAdvanced/src/streams_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.P11ThePartyReservationFilterModule">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Georgi Danailov\Desktop\JavaAdvanced\src\streams_files_and_directories\04. Java-Advanced-Files-and-Streams-Exercises-Resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Georgi Danailov\Desktop\JavaAdvanced\src\streams_files_and_directories\04. Java-Advanced-Files-and-Streams-Exercises-Resources\Exercises Resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.P1SumLines">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="JavaAdvanced" />
@@ -101,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1CompareMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_multidimentional_arrays.P1CompareMatrices" />
+    <configuration name="P1SumLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream_files_and_directories.P1SumLines" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_multidimentional_arrays.*" />
+          <option name="PATTERN" value="stream_files_and_directories.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1SumLines" />
         <item itemvalue="Application.P11ThePartyReservationFilterModule" />
         <item itemvalue="Application.P10PredicateParty" />
         <item itemvalue="Application.P9ListOfPredicates" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.P1CompareMatrices" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696601759437</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Update">
+      <created>1696758491623</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696758491623</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -256,6 +279,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Update" />
     <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
