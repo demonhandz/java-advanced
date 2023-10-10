@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad75046-2a49-4a07-b506-7a47a82e1e85" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/Exercises Resources.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/inputLineNumbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/inputOne.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/inputTwo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/inputLineNumbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/inputOne.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/inputTwo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources/words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_files_and_directories/P1SumLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defining_classes/p1_opinion_pool/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defining_classes/p1_opinion_pool/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,20 +48,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "extract.method.default.visibility": "private",
-    "last_opened_file_path": "C:/Users/Georgi Danailov/Desktop/JavaAdvanced/src/streams_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Georgi Danailov/Desktop/JavaAdvanced/src/streams_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Georgi Danailov\Desktop\JavaAdvanced\src\streams_files_and_directories\04. Java-Advanced-Files-and-Streams-Exercises-Resources" />
@@ -83,14 +70,7 @@
       <recent name="C:\Users\Georgi Danailov\Desktop\JavaAdvanced\src\streams_files_and_directories\04. Java-Advanced-Files-and-Streams-Exercises-Resources\Exercises Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P1SumLines">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="JavaAdvanced" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.defining_classes.p1.opinion_pool.Main">
     <configuration name="P10PredicateParty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functional_programming.P10PredicateParty" />
       <module name="JavaAdvanced" />
@@ -143,13 +123,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="defining_classes.p1.opinion_pool.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="defining_classes.p1.opinion_pool.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="defining_classes.p1.opinion_pool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.defining_classes.p1.opinion_pool.Main" />
         <item itemvalue="Application.P1SumLines" />
         <item itemvalue="Application.P11ThePartyReservationFilterModule" />
         <item itemvalue="Application.P10PredicateParty" />
         <item itemvalue="Application.P9ListOfPredicates" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
