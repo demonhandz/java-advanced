@@ -1,9 +1,10 @@
 package defining_classes.p9_cat_lady;
 
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
+
+
 
 public class Main {
     public static void main(String[] args) {
@@ -11,10 +12,9 @@ public class Main {
 
         String line = scanner.nextLine();
 
-        Map<String, Cat> cats = null;
+        Map<String, Cat> cats = new HashMap<>();
+
         while (!"End".equals(line)) {
-            // Map<CatName, Cat>
-            cats = new HashMap<>();
             String[] tokens = line.split("\\s+");
             String catType = tokens[0];
             String catName = tokens[1];
