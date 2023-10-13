@@ -1,7 +1,7 @@
 package defining_classes.p3_speed_racing;
 
-import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         int n = Integer.parseInt(scanner.nextLine());
-        Map<String, Car> cars = new HashMap<>();
+        Map<String, Car> cars = new LinkedHashMap<>();
 
         for (int i = 0; i < n; i++) {
             String[] tokens = scanner.nextLine().split("\\s+");

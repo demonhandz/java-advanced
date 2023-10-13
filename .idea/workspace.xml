@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad75046-2a49-4a07-b506-7a47a82e1e85" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/src/defining_classes/p2_company_roster/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defining_classes/p2_company_roster/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defining_classes/p3_speed_racing/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defining_classes/p3_speed_racing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defining_classes/p9_cat_lady/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defining_classes/p9_cat_lady/Cymric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defining_classes/p9_cat_lady/Extraordinaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defining_classes/p9_cat_lady/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defining_classes/p9_cat_lady/Siamese.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaAdvanced.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAdvanced.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/defining_classes/p3_speed_racing/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defining_classes/p3_speed_racing/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,20 +52,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "extract.method.default.visibility": "private",
-    "last_opened_file_path": "C:/Users/Georgi Danailov/Desktop/JavaAdvanced/src/streams_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Georgi Danailov/Desktop/JavaAdvanced/src/streams_files_and_directories/04. Java-Advanced-Files-and-Streams-Exercises-Resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Georgi Danailov\Desktop\JavaAdvanced\src\streams_files_and_directories\04. Java-Advanced-Files-and-Streams-Exercises-Resources" />
@@ -73,7 +75,7 @@
       <recent name="C:\Users\Georgi Danailov\Desktop\JavaAdvanced\src\streams_files_and_directories\04. Java-Advanced-Files-and-Streams-Exercises-Resources\Exercises Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.defining_classes.p3_speed_racing.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="defining_classes.p2_company_roster.Main" />
       <module name="JavaAdvanced" />
@@ -141,8 +143,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.defining_classes.p3_speed_racing.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.defining_classes.p3_speed_racing.Main" />
         <item itemvalue="Application.P7MergeTwoFiles" />
         <item itemvalue="Application.P3AllCapitals" />
         <item itemvalue="Application.P2SumBytes" />
@@ -263,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697031259481</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Update">
+      <created>1697128206226</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1697128206226</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
