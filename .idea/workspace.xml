@@ -5,29 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad75046-2a49-4a07-b506-7a47a82e1e85" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7efa1f46c87b99b68b05fc0b58a3ddbede3d0669" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/aff3649d7b6a9fdf8a285a651547eb8ab6250aef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc571bcca93e0532b9c231e1cf6c6d1d18b017de" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cff36c4b834c792e5e60a338212ca3db1cc0eeb7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7eaa04a1dafa530e270aba66c4d4391ec9fb389" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef41dfe51d61c26ee440d54fac704f86fdc58ac2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f01403becb777d0d3e381aad002f9e64c0283201" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2f305ec4f05ae4d940ca622c0c80e13cb03d79d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/e/7efa1f46c87b99b68b05fc0b58a3ddbede3d0669" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/f/aff3649d7b6a9fdf8a285a651547eb8ab6250aef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/c/bc571bcca93e0532b9c231e1cf6c6d1d18b017de" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/f/cff36c4b834c792e5e60a338212ca3db1cc0eeb7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/7/d7eaa04a1dafa530e270aba66c4d4391ec9fb389" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/f/ef41dfe51d61c26ee440d54fac704f86fdc58ac2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/0/f01403becb777d0d3e381aad002f9e64c0283201" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/2/f2f305ec4f05ae4d940ca622c0c80e13cb03d79d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defining_classes/p9_cat_lady.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Cargo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Tire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7efa1f46c87b99b68b05fc0b58a3ddbede3d0669" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7efa1f46c87b99b68b05fc0b58a3ddbede3d0669" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/defining_classes/p9_cat_lady/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defining_classes/p9_cat_lady/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -295,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697197691529</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Update">
+      <created>1697199463636</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1697199463636</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
