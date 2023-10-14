@@ -9,7 +9,8 @@ public class P9ListOfPredicates {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int n = Integer.parseInt(scanner.nextLine());
+        int n = scanner.nextInt();
+        scanner.nextLine(); // Consume the newline character
 
         List<Integer> divisors = new ArrayList<>();
         String[] divisorStrings = scanner.nextLine().split("\\s+");
@@ -18,8 +19,14 @@ public class P9ListOfPredicates {
             divisors.add(divisor);
         }
 
-        Predicate<Integer> isDivisibleByAll = num -> divisors.stream().allMatch(divisor -> num % divisor == 0);
-
+        Predicate<Integer> isDivisibleByAll = num -> {
+            for (int divisor : divisors) {
+                if (num % divisor != 0) {
+                    return false;
+                }
+            }
+            return true;
+        };
 
         for (int i = 1; i <= n; i++) {
             if (isDivisibleByAll.test(i)) {
