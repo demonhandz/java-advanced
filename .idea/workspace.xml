@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad75046-2a49-4a07-b506-7a47a82e1e85" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Cargo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Tire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7efa1f46c87b99b68b05fc0b58a3ddbede3d0669" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7efa1f46c87b99b68b05fc0b58a3ddbede3d0669" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -288,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697199463636</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Update">
+      <created>1697236086158</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1697236086158</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">

@@ -51,3 +51,13 @@ w
 G.idea/sonarlint/issuestore/e/f/ef41dfe51d61c26ee440d54fac704f86fdc58ac2,6\8\68879c9568af8be79d713a0e55cbd08460d7bd78
 Z
 *src/defining_classes/p9_cat_lady/Main.java,3\f\3fa19cf2be305ec27ffad37207c50c54a6a6ed84
+Y
+)src/defining_classes/p4_raw_data/Car.java,c\4\c4498c0499c00b6517546e54aaaadd4db03bbb25
+[
++src/defining_classes/p4_raw_data/Cargo.java,5\5\550e71badc5792b973f54e3d74d681d34ec57675
+\
+,src/defining_classes/p4_raw_data/Engine.java,1\7\17e9aecb686d036ccd93dfada4acc93a5d21757c
+Z
+*src/defining_classes/p4_raw_data/Tire.java,e\9\e96dc07825c473a396004e4087899565a887934f
+Z
+*src/defining_classes/p4_raw_data/Main.java,8\3\83f4aadfd1d43e28d4e82821d28501eef6b9c4b3
