@@ -1,14 +1,14 @@
 package defining_classes.p4_raw_data;
 
-import java.util.ArrayList;
+import java.util.List;
 
 public class Car {
     private String model;
     private Engine engine;
     private Cargo cargo;
-    private ArrayList<Tire> tires;
+    private List<Tire> tires;
 
-    public Car(String model, Engine engine, Cargo cargo, ArrayList<Tire> tires) {
+    public Car(String model, Engine engine, Cargo cargo, List<Tire> tires) {
         this.model = model;
         this.engine = engine;
         this.cargo = cargo;
@@ -27,7 +27,7 @@ public class Car {
         return cargo;
     }
 
-    public ArrayList<Tire> getTires() {
+    public List<Tire> getTires() {
         return tires;
     }
 }

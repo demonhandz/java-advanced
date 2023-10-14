@@ -1,15 +1,20 @@
 package defining_classes.p4_raw_data;
 
 public class Tire {
-    private double tirePressure;
-    private int tireAge;
+    private double pressure;
+    private int age;
 
-    public Tire(double tirePressure, int tireAge) {
-        this.tirePressure = tirePressure;
-        this.tireAge = tireAge;
+    public Tire(double pressure, int age) {
+        this.pressure = pressure;
+        this.age = age;
     }
 
-    public double getTirePressure() {
-        return tirePressure;
+    public double getPressure() {
+        return pressure;
+    }
+
+    public int getAge() {
+        return age;
     }
 }
+

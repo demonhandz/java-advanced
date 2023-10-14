@@ -1,15 +1,16 @@
 package defining_classes.p4_raw_data;
 
 public class Engine {
-    private int engineSpeed;
-    private int enginePower;
+    private int speed;
+    private int power;
 
-    public Engine(int engineSpeed, int enginePower) {
-        this.engineSpeed = engineSpeed;
-        this.enginePower = enginePower;
+    public Engine(int speed, int power) {
+        this.speed = speed;
+        this.power = power;
     }
 
-    public int getEnginePower() {
-        return enginePower;
+    public int getPower() {
+        return power;
     }
 }
+
