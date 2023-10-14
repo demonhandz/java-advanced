@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad75046-2a49-4a07-b506-7a47a82e1e85" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/src/lab_defining_classes/p1_car_info/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_defining_classes/p1_car_info/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_defining_classes/p2_car_constructors/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_defining_classes/p2_car_constructors/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Cargo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Cargo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Tire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defining_classes/p4_raw_data/Tire.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,39 +73,13 @@
       <recent name="C:\Users\Georgi Danailov\Desktop\JavaAdvanced\src\streams_files_and_directories\04. Java-Advanced-Files-and-Streams-Exercises-Resources\Exercises Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.defining_classes.p4_raw_data.Main">
+  <component name="RunManager" selected="Application.lab_defining_classes.p2_car_constructors.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="defining_classes.p2_company_roster.Main" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="defining_classes.p2_company_roster.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P7MergeTwoFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream_files_and_directories.P7MergeTwoFiles" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stream_files_and_directories.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="defining_classes.p3_speed_racing.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="defining_classes.p3_speed_racing.Main" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="defining_classes.p3_speed_racing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,13 +113,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lab_defining_classes.p1_car_info.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_defining_classes.p1_car_info.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_defining_classes.p1_car_info.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab_defining_classes.p2_car_constructors.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_defining_classes.p2_car_constructors.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_defining_classes.p2_car_constructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lab_defining_classes.p2_car_constructors.Main" />
+        <item itemvalue="Application.lab_defining_classes.p1_car_info.Main" />
         <item itemvalue="Application.defining_classes.p4_raw_data.Main" />
         <item itemvalue="Application.defining_classes.p9_cat_lady.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.defining_classes.p3_speed_racing.Main" />
-        <item itemvalue="Application.P7MergeTwoFiles" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697274220227</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Update">
+      <created>1697276017254</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1697276017254</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
