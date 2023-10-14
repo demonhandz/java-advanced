@@ -29,33 +29,35 @@ public class P7Crossfire {
             int targetCol = targetArg[1];
             int radius = targetArg[2];
 
-            for (int row = targetRow - radius; row <= targetRow + radius; row++) {
-                if (isInside(matrix, row, targetCol)) {
-                    matrix.get(row).set(targetCol, 0);
-                }
-            }
-
-            for (int col = targetCol - radius; col <= targetCol + radius; col++) {
-                if (isInside(matrix, targetRow, col)) {
-                    matrix.get(targetRow).set(col, 0);
-                }
-            }
-
-            for (int row = 0; row < matrix.size(); row++) {
-                List<Integer> currentRow = matrix.get(row);
-                currentRow.removeAll(List.of(0));
-
-                if (matrix.get(row).size() == 0) {
-                    matrix.remove(row);
-                    row++;
-                }
-            }
+            destroyCells(matrix, targetRow, targetCol, radius);
 
             command = scanner.nextLine();
         }
 
-
         printMatrix(matrix);
+    }
+
+    private static void destroyCells(List<List<Integer>> matrix, int targetRow, int targetCol, int radius) {
+        for (int row = targetRow - radius; row <= targetRow + radius; row++) {
+            if (isInside(matrix, row, targetCol)) {
+                matrix.get(row).set(targetCol, 0);
+            }
+        }
+
+        for (int col = targetCol - radius; col <= targetCol + radius; col++) {
+            if (isInside(matrix, targetRow, col)) {
+                matrix.get(targetRow).set(col, 0);
+            }
+        }
+
+        // Remove destroyed cells
+        for (int row = 0; row < matrix.size(); row++) {
+            matrix.get(row).removeAll(Arrays.asList(0));
+            if (matrix.get(row).isEmpty()) {
+                matrix.remove(row);
+                row--;
+            }
+        }
     }
 
     private static boolean isInside(List<List<Integer>> matrix, int row, int col) {

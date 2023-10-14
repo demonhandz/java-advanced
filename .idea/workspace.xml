@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad75046-2a49-4a07-b506-7a47a82e1e85" name="Changes" comment="Update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multidimentional_arrays/P6StringMatrixRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P6StringMatrixRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multidimentional_arrays/P7Crossfire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multidimentional_arrays/P7Crossfire.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -316,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697308912561</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Update">
+      <created>1697310199787</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1697310199787</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
