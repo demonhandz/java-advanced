@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad75046-2a49-4a07-b506-7a47a82e1e85" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/src/defining_classes/p5_car_salesman/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defining_classes/p5_car_salesman/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defining_classes/p5_car_salesman/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defining_classes/p6_pokemon_trainer.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defining_classes/p6_pokemon_trainer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defining_classes/p6_pokemon_trainer/Pokemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defining_classes/p6_pokemon_trainer/Trainer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defining_classes/p7_google/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defining_classes/p7_google/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defining_classes/p7_google/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defining_classes/p7_google/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defining_classes/p7_google/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defining_classes/p7_google/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defining_classes/p7_google/Pokemon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/defining_classes/p6_pokemon_trainer.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,7 @@
       <recent name="C:\Users\Georgi Danailov\Desktop\JavaAdvanced\src\streams_files_and_directories\04. Java-Advanced-Files-and-Streams-Exercises-Resources\Exercises Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.defining_classes.p6_pokemon_trainer.Main">
+  <component name="RunManager" selected="Application.defining_classes.p7_google.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="defining_classes.p5_car_salesman.Main" />
       <module name="JavaAdvanced" />
@@ -131,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab_defining_classes.p3_bank_account.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_defining_classes.p3_bank_account.Main" />
+    <configuration name="defining_classes.p7_google.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="defining_classes.p7_google.Main" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_defining_classes.p3_bank_account.*" />
+          <option name="PATTERN" value="defining_classes.p7_google.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.defining_classes.p7_google.Main" />
         <item itemvalue="Application.defining_classes.p6_pokemon_trainer.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.P8TheHeiganDance" />
         <item itemvalue="Application.P6StringMatrixRotation" />
-        <item itemvalue="Application.lab_defining_classes.p3_bank_account.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697313477890</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Update">
+      <created>1697371258937</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1697371258937</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
