@@ -5,25 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad75046-2a49-4a07-b506-7a47a82e1e85" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/src/generics/p1_generic_box/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/p1_generic_box/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/p2_generic_box_integer/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/p2_generic_box_integer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/p3_generic_swap_method_strings.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/p3_generic_swap_method_strings/GenericSwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/p3_generic_swap_method_strings/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/p4_generic_swap_method_integers/GenericSwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/p4_generic_swap_method_integers/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/p5_generic_count_method_strings/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/p5_generic_count_method_strings/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/p6_generic_count_method_doubles/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/p6_generic_count_method_doubles/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/p7_custom_list/CustomList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/p7_custom_list/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/p8_custom_list_sorter/CustomList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/p8_custom_list_sorter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterators_and_comparators/p1_listyiterator/ListyIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterators_and_comparators/p1_listyiterator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterators_and_comparators/p2_collection/ListyIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterators_and_comparators/p2_collection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterators_and_comparators/p3_stack_iterator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterators_and_comparators/p3_stack_iterator/StackIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterators_and_comparators/p4_froggy/Lake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterators_and_comparators/p4_froggy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterators_and_comparators/p5_comparing_objects/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterators_and_comparators/p5_comparing_objects/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterators_and_comparators/p6_strategy_pattern/AgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterators_and_comparators/p6_strategy_pattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterators_and_comparators/p6_strategy_pattern/NameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterators_and_comparators/p6_strategy_pattern/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -383,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697568465521</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Update">
+      <created>1697832275321</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1697832275321</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
